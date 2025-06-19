@@ -3,7 +3,7 @@
     comentario em blocos 
 =end
 
-=begin
+
 #tipos de dados 
 
 n_int = 5
@@ -24,7 +24,7 @@ puts array_ruby
 hash_ruby = {"nome": "jorge", "idade": 18}
 puts hash_ruby
 puts hash_ruby[:idade]
-=end
+
 
 #Faça um Programa que calcule a área de um quadrado, 
 #em seguida mostre o dobro desta área para o usuário.
@@ -88,7 +88,7 @@ else
   puts "perfeito nao pagara nenhuma multa, voce pescou #{peso} kg"
 end
 
-=end
+
 
 =begin
 Faça um Programa que pergunte quanto você ganha por hora e o número de horas trabalhadas no mês.
